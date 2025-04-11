@@ -33,9 +33,15 @@ POST /text-to-speech/
 
 ## 💬 Sample Instructions
 
-- `Speak like a storyteller.`
-- `Use a calm and warm tone.`
-- `Whisper softly with emotion.`
+You can prompt the model to control aspects of speech, including:
+
+- Accent
+- Emotional range
+- Intonation
+- Impressions
+- Speed of speech
+- Tone
+- Whispering
 
 ---
 
